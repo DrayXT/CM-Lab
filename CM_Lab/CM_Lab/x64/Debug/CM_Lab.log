@@ -1,0 +1,30 @@
+﻿  CM_Lab.cpp
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(70,9): warning C4005: EOF: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(41,9):
+      см. предыдущее определение "EOF"
+  
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(266,22): warning C4305: =: усечение из "double" в "float"
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(266,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(312,43): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(1519,25): warning C4566: символ, представленный универсальным именем символа "\u03BB", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2166,142): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2166,142): warning C4244:         with
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2166,142): warning C4244:         [
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2166,142): warning C4244:             _Ty=float
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2166,142): warning C4244:         ]
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2171,111): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2171,111): warning C4244:         with
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2171,111): warning C4244:         [
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2171,111): warning C4244:             _Ty=float
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2171,111): warning C4244:         ]
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2176,111): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2176,111): warning C4244:         with
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2176,111): warning C4244:         [
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2176,111): warning C4244:             _Ty=float
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2176,111): warning C4244:         ]
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2393,135): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2393,135): warning C4244:         with
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2393,135): warning C4244:         [
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2393,135): warning C4244:             _Ty=float
+C:\Users\Andrew\source\repos\CM_Lab\CM_Lab\CM_Lab.cpp(2393,135): warning C4244:         ]
+  CM_Lab.vcxproj -> C:\Users\Andrew\source\repos\CM_Lab\x64\Debug\CM_Lab.exe
